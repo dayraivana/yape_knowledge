@@ -5,7 +5,7 @@ Yape ganó fama como una alternativa práctica a la banca tradicional,​ en las
 ## Funcionamiento
 El programa opera autónomamente en una billetera digital, con la posibilidad de integrarse con las cuentas tradicionales del BCP, y se recarga desde agentes autorizados.
 
-Para 2024, la cuenta se crea para quienes realicen operaciones económicas en Perú. En el caso de menores de edad, el propietario de la billetera corresponde a un adulto responsable.​ Debido a que es un aplicativo web que depende de un número telefónico, los usuarios tienen tres modalidades para gestionar su dinero:.
+Para 2024, la cuenta se crea para quienes realicen operaciones económicas en Perú. En el caso de menores de edad, el propietario de la billetera corresponde a un adulto responsable.​ Debido a que es un aplicativo web que depende de un número telefónico, los usuarios tienen tres modalidades para gestionar su dinero.
 
 * Cuenta bancaria de BCP (requiriendo una tarjeta de la entidad). Admite cuentas mancomunadas para usuarios menores de edad.
 * Cuenta de ahorros «Yape» (requiriendo solo el documento nacional de identidad de usuario), aplicada en 2019 como parte de una estrategia de inclusión financiera para usuarios que cuenten un teléfono inteligente como partida;​ si bien es una billetera virtual, esta se actualizó a modo de cuenta de ahorros digital entre abril y septiembre de 2022 para los nuevos y los antiguos registrados que no desean contar con una tarjeta de débito, cuya cuenta solo se opera desde el aplicativo y no tiene coste de mantenimiento.​
